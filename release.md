@@ -73,3 +73,6 @@ Mon Sep 11 10:25:31 UTC 2023
 # Release v1.0.5
 Wed Sep 13 09:18:19 UTC 2023
 
+# Release v1.0.6
+Wed Sep 13 09:19:18 UTC 2023
+
