@@ -136,3 +136,6 @@ Tue Oct  3 13:20:27 UTC 2023
 # Release v2.2.6
 Tue Oct  3 13:29:33 UTC 2023
 
+# Release v2.2.7
+Tue Oct  3 19:31:07 UTC 2023
+
