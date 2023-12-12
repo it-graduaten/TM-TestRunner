@@ -316,3 +316,6 @@ Tue Dec 12 10:28:04 UTC 2023
 # Release v3.1.35
 Tue Dec 12 14:22:33 UTC 2023
 
+# Release v3.1.36
+Tue Dec 12 22:42:47 UTC 2023
+
